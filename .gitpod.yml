@@ -1,0 +1,4 @@
+image: nodejs
+
+ports:
+- port: 8080
